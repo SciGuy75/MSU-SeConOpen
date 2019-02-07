@@ -1,0 +1,4 @@
+This directory is made to store files used in 3D modeling the robots.
+
+All files are from AutoDesk applications, such as Inventor and Fushion 360. 
+Files will likely be AutoDesk's proprietary Part(.ipt) and Assembly(.asm*?*) files as well as some standard .stl files used for 3D printing.
